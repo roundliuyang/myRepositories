@@ -23,7 +23,13 @@
 | :-----: | :----------------------------------------------------------- |
 |  MySQL  | [「 直击面试」—— MySQL三文字总结+面试100问](https://mp.weixin.qq.com/s/MCFHNOQnTtJ6MGVjM3DP4A) |  
 |  反射&AOP | [「反射&AOP」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483731&idx=1&sn=92354d4d0c37886892db8320ef6bb13d&chksm=9f3ad92fa84d50395d8b75b30c45ae3a1e6e23a0150cefa9be6027cfdfba95e7010d5d2faae1&token=839566199&lang=zh_CN#rd) |   
-| 动态代理  | [「动态代理」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483730&idx=1&sn=cd374b858c7611d025fc5bce0a4bd6e9&chksm=9f3ad92ea84d50385e2ad0025f1ae6688620cb6ea77f7681d953da353e9f47d2571886382d67&token=839566199&lang=zh_CN#rd) |
+| 动态代理  | [「动态代理」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483730&idx=1&sn=cd374b858c7611d025fc5bce0a4bd6e9&chksm=9f3ad92ea84d50385e2ad0025f1ae6688620cb6ea77f7681d953da353e9f47d2571886382d67&token=839566199&lang=zh_CN#rd) |  
+| AQS & ReentrantLock  | [「AQS & ReentrantLock」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483762&idx=1&sn=e20ea5fd2332e0c37b708f3d74395aa1&chksm=9f3ad90ea84d50180508114401e3988c88fb87282393042314941d86f852fb121c57ccdc0fba&token=839566199&lang=zh_CN#rd) |    
+
+| synchronized  | [「 synchronized」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483752&idx=1&sn=5007b65c8440a0c963a53da47fdb10a1&chksm=9f3ad914a84d5002ef98ca6a2c833313d786d3d1e7ade7139b07bb543cf3a9f01b3b2507ce0b&token=839566199&lang=zh_CN#rd) |  
+| ThreadLocal  | [「 ThreadLocal」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483768&idx=1&sn=b347893922ee5d03e42bcb4699ed7e7d&chksm=9f3ad904a84d501214e147a7ab4c0fbb001ecad80e125563afb262e8b3a36ae345ca11043338&token=839566199&lang=zh_CN#rd) |    
+|  volatile  | [「 volatile」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483699&idx=1&sn=34f5302e5a197a8101043d5f2880287f&chksm=9f3ad94fa84d505920d73e35fd4a476af4a9b58fb7149b085acca62ff0607b66317e5b66070c&token=839566199&lang=zh_CN#rd) |    
+
 
 ### 计算机网络  
 
