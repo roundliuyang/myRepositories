@@ -38,7 +38,13 @@
 
 - [秒杀系统实战（四）| 缓存与数据库双写问题的争议](https://mp.weixin.qq.com/s/Fk9z3MjUCWLh30grAnMKLg)  
 
-    
+### Java基础  
+
+- [重写 equals 方法就一定要重写 hashCode 方法？ 其实有个前提](https://mp.weixin.qq.com/s/ZhpYKpT-jaUBJz8ByWocFQ)    
+
+- [怎么打破双亲委派机制](https://blog.csdn.net/xiaobao5214/article/details/81674215)    
+
+
 ### 源码分析  
 
 - [ArrayList](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483800&idx=1&sn=d0747f728ea69bf39e596bef518ee0bb&chksm=9f3ad9e4a84d50f2fd1c792536239b40fb7d5b8a5eb43efe0618c220745e8168914940457bc6&token=839566199&lang=zh_CN#rd)     
