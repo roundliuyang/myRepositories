@@ -28,6 +28,16 @@
 
 - [在浏览器输入URL回车之后发生了什么？](https://mp.weixin.qq.com/s/DLwxx8FRQrTGNldcIf4Yyw)  
 
+### 秒杀系统  
+
+- [从零打造秒杀系统（一）：防止超卖](https://mp.weixin.qq.com/s/q7Z4d1I-q4N9hVJ1dzUpRA)    
+
+- [零基础上手秒杀系统（二）：令牌桶限流 + 再谈超卖](https://mp.weixin.qq.com/s/x-e103a0fOobSpnLxok8tw)  
+
+- [零基础上手秒杀系统（三）：抢购接口隐藏 + 单用户限制频率](https://mp.weixin.qq.com/s/F2_K6UYuRkJoBCnwdzYl3Q)  
+
+- [秒杀系统实战（四）| 缓存与数据库双写问题的争议](https://mp.weixin.qq.com/s/Fk9z3MjUCWLh30grAnMKLg)  
+
     
 ### 源码分析  
 
