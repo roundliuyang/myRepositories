@@ -26,7 +26,14 @@
 
 #### 计算机网络  
 
-- [在浏览器输入URL回车之后发生了什么？](https://mp.weixin.qq.com/s/DLwxx8FRQrTGNldcIf4Yyw)  
+- [在浏览器输入URL回车之后发生了什么？](https://mp.weixin.qq.com/s/DLwxx8FRQrTGNldcIf4Yyw)   
+
+### Spring  
+
+- [Sping注解：注解和含义](https://www.cnblogs.com/drl-blogs/p/10797946.html)   
+
+- [Spring 事务用法示例与实现原理](https://mp.weixin.qq.com/s/yk0SmHljpmuVKSRKJVzf6w)   
+
 
 ### 秒杀系统  
 
@@ -43,6 +50,8 @@
 - [重写 equals 方法就一定要重写 hashCode 方法？ 其实有个前提](https://mp.weixin.qq.com/s/ZhpYKpT-jaUBJz8ByWocFQ)    
 
 - [怎么打破双亲委派机制](https://blog.csdn.net/xiaobao5214/article/details/81674215)    
+
+- [详解HashMap中的Hash算法（扰动函数）](https://blog.csdn.net/zhang_zhenwei/article/details/103345480)    
 
 
 ### 源码分析  
