@@ -113,7 +113,7 @@ B+树是应文件系统所需而产生的一种B树的变形树（文件的目�
 5、非叶子节点相当于是叶子节点的索引(稀疏索引),叶子节点相当于是存储(关键字)数据的数据层； 
 6、更适合于文件系统；
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/UtWdDgynLdZWD664KnCQ2x68C8NUSn9ickla6KbCCFu39obZuGEooFPtVsap3picXKYLMLh3ibpeZ7b8lia1SvDN4w/640?tp=webp&wxfrom=5&wx_lazy=1)
+![img](https://img-blog.csdnimg.cn/20200711195359945.JPG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2p1ZWR1aXd1ZGk2,size_16,color_FFFFFF,t_70)
 
 非叶子节点（比如5，28，65）只是一个key（索引），实际的数据存在叶子节点上（5，8，9）才是真正的数据或指向真实数据的指针。
 
