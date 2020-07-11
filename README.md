@@ -28,7 +28,7 @@
 | synchronized  | [「 synchronized」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483752&idx=1&sn=5007b65c8440a0c963a53da47fdb10a1&chksm=9f3ad914a84d5002ef98ca6a2c833313d786d3d1e7ade7139b07bb543cf3a9f01b3b2507ce0b&token=839566199&lang=zh_CN#rd) |  
 | ThreadLocal  | [「 ThreadLocal」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483768&idx=1&sn=b347893922ee5d03e42bcb4699ed7e7d&chksm=9f3ad904a84d501214e147a7ab4c0fbb001ecad80e125563afb262e8b3a36ae345ca11043338&token=839566199&lang=zh_CN#rd) |    
 |  volatile  | [「 volatile」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483699&idx=1&sn=34f5302e5a197a8101043d5f2880287f&chksm=9f3ad94fa84d505920d73e35fd4a476af4a9b58fb7149b085acca62ff0607b66317e5b66070c&token=839566199&lang=zh_CN#rd) |    
-
+|  线上故障排查  | [「 线上故障排查」](https://mp.weixin.qq.com/s/9lBn-v1192OaSxaPUOfGCw |  
 
 ### 计算机网络  
 
