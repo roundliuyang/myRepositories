@@ -45,7 +45,12 @@
 
 - [Sping注解：注解和含义](https://www.cnblogs.com/drl-blogs/p/10797946.html)   
 
-- [Spring 事务用法示例与实现原理](https://mp.weixin.qq.com/s/yk0SmHljpmuVKSRKJVzf6w)   
+- [Spring 事务用法示例与实现原理](https://mp.weixin.qq.com/s/yk0SmHljpmuVKSRKJVzf6w)  
+
+### Java并发  
+
+- [【死磕 Java 并发】—– J.U.C 之阻塞队列：PriorityBlockingQueue](https://github.com/roundliuyang/myRepositories/tree/master/Java%E5%B9%B6%E5%8F%91)   
+
 
 ### Mybatis  
 
