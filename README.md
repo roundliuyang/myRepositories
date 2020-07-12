@@ -31,6 +31,7 @@
 |  volatile  | [「 volatile」](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483699&idx=1&sn=34f5302e5a197a8101043d5f2880287f&chksm=9f3ad94fa84d505920d73e35fd4a476af4a9b58fb7149b085acca62ff0607b66317e5b66070c&token=839566199&lang=zh_CN#rd) |    
 |  线上故障排查  | [「 线上故障排查」](https://mp.weixin.qq.com/s/9lBn-v1192OaSxaPUOfGCw) |  
 |  Java 中的内存溢出和内存泄露是什么？  | [「 Java 中的内存溢出和内存泄露是什么？」](https://mp.weixin.qq.com/s/FtY6CSbU1AHlQhRpL4_IJg) |  
+|  Spring中经典的9种设计模式  | [「 Spring中经典的9种设计模式」](https://mp.weixin.qq.com/s/gz2-izPrgW1AGbqqovT0cA) |  
 
 
 ### 计算机网络  
