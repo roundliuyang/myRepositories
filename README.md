@@ -40,6 +40,10 @@
 
 - [TCP/UDP/HTTP/进程通信](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483861&idx=1&sn=147889a0c277581eaa0c7dfc68979beb&chksm=9f3ad9a9a84d50bfa5764cea22e32fda74eb1177b34012a4f44a9b93dd3d81ee0cae1512c4ba&token=839566199&lang=zh_CN#rd)   
 
+### JVM  
+
+- [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
+
 ### Dubbo  
 
 - [Dubbo](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&tempkey=MTA2OV80QWRwRVk1N0lCVTg3MWcxeTRKYmFsa05UX0kyVXJ0LVlIOEp2dEdfeDIxeWR2OVdOZVBpTmVPRG13d2FYbGN3bHFNVDhGVzVnVkxfd1dWZWM1THRTNm1PX0pVb1l0N2NnOUVxUFBmYXNlSkcya1h2eUE0cHNyMVh6MG9JSzk5dGpwblljd3VtMlIwTmdKNzhSWk4wdHRJNUNQeXRJZ3V5VnE4WENRfn4%3D&chksm=1f3ad94d284d505b786515505e24534db0faa042f5bfd2e1d2f3c9671b088a96394dc6fd8f45#rd)   
