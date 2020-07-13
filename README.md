@@ -79,8 +79,11 @@
 
 - [怎么打破双亲委派机制](https://blog.csdn.net/xiaobao5214/article/details/81674215)    
 
-- [详解HashMap中的Hash算法（扰动函数）](https://blog.csdn.net/zhang_zhenwei/article/details/103345480)    
 
+### 集合类  
+
+- [详解HashMap中的Hash算法（扰动函数）](https://blog.csdn.net/zhang_zhenwei/article/details/103345480)    
+- [你说 HashMap 线程不安全，它为啥不安全呢？）](https://mp.weixin.qq.com/s/yxn47A4UcsrORoDJyREEuQ)
 
 ### 源码分析  
 
