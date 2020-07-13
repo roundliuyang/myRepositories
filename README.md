@@ -92,7 +92,8 @@
 ### 集合类  
 
 - [详解HashMap中的Hash算法（扰动函数）](https://blog.csdn.net/zhang_zhenwei/article/details/103345480)    
-- [你说 HashMap 线程不安全，它为啥不安全呢？）](https://mp.weixin.qq.com/s/yxn47A4UcsrORoDJyREEuQ)
+- [你说 HashMap 线程不安全，它为啥不安全呢？](https://mp.weixin.qq.com/s/yxn47A4UcsrORoDJyREEuQ)
+- [HashMap概述及其三种遍历方式](https://www.cnblogs.com/xyfer1018/p/10434827.html)
 
 ### 源码分析  
 
