@@ -46,6 +46,11 @@
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
 
+### 设计模式  
+
+- [适配器模式](http://www.iocoder.cn/DesignPattern/xiaomingge/Adapter-Pattern/)  
+
+
 ### Dubbo  
 
 - [Dubbo](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&tempkey=MTA2OV80QWRwRVk1N0lCVTg3MWcxeTRKYmFsa05UX0kyVXJ0LVlIOEp2dEdfeDIxeWR2OVdOZVBpTmVPRG13d2FYbGN3bHFNVDhGVzVnVkxfd1dWZWM1THRTNm1PX0pVb1l0N2NnOUVxUFBmYXNlSkcya1h2eUE0cHNyMVh6MG9JSzk5dGpwblljd3VtMlIwTmdKNzhSWk4wdHRJNUNQeXRJZ3V5VnE4WENRfn4%3D&chksm=1f3ad94d284d505b786515505e24534db0faa042f5bfd2e1d2f3c9671b088a96394dc6fd8f45#rd)   
