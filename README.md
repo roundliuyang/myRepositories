@@ -48,6 +48,7 @@
 
 ### 设计模式  
 
+- [工厂方法模式](http://www.iocoder.cn/DesignPattern/xiaomingge/Factory-Method/)  
 - [适配器模式](http://www.iocoder.cn/DesignPattern/xiaomingge/Adapter-Pattern/)  
 
 
