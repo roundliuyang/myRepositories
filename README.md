@@ -100,6 +100,8 @@
 
 - [单例模式为什么要进行二次判空](https://blog.csdn.net/feichitianxia/article/details/97814645?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)    
 
+- [COW奶牛！Copy On Write机制了解一下](https://mp.weixin.qq.com/s/EZNsGajgmIhOQvwMgn2_6w)    
+
 ### 集合类  
 
 - [详解HashMap中的Hash算法（扰动函数）](https://blog.csdn.net/zhang_zhenwei/article/details/103345480)    
