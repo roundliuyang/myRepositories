@@ -101,7 +101,7 @@
 
 - [怎么打破双亲委派机制](https://blog.csdn.net/xiaobao5214/article/details/81674215)    
 
-- [单例模式为什么要进行二次判空](https://blog.csdn.net/feichitianxia/article/details/97814645?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)    
+- [面试官：说说双重检查加锁单例模式为什么两次if判断？](https://blog.csdn.net/weixin_38983929/article/details/103006376)    
 
 - [COW奶牛！Copy On Write机制了解一下](https://mp.weixin.qq.com/s/EZNsGajgmIhOQvwMgn2_6w)    
 
