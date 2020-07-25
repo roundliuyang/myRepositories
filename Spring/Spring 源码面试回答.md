@@ -180,10 +180,10 @@ public class ReflectiveMethodInvocation implements ProxyMethodInvocation, Clonea
 **面试回答总结版**
 **ProxyFactoryBean 主要持有目标对象 target 的代理对象 aopProxy，和 Advisor 通知器，而 Advisor 持有 Advice 和 Pointcut，这样就可以判断 aopProxy 中的方法 是否是某个指定的切面 Pointcut，然后根据其配置的织入方向（前置增强/后置增强），通过反射为其织入相应的增强行为 Advice。
 通过动态代理（JDK或CgLIB）为 目标对象target 生成代理对象 之后，在调用 代理对象 的目标方法时，目标方法会进行 invoke()回调（JDK动态代理） 或 callbacks()回调（CGLIB），然后就可以在回调方法中对目标对象的目标方法进行拦截和增强处理了。这里通过拦截器的 方法匹配器methodMatcher 进行方法匹配，如果 目标类的目标方法 和配置的 Pointcut 匹配，那么这个 增强行为advice 将会被执行，Pointcut 定义了切面方法（要进行增强的方法），advice 定义了增强的行为**
-- **JdkDynamicAopProxy 实现了 InvocationHandler 接口，并通过 java.lang.reflect.Proxy 的 newProxyInstance()静态方法 生成代理对象并返回。
-- **JdkDynamicAopProxy 和 CglibAopProxy 虽然使用了不同的代理对象，但对 AOP 拦截的处理却是相同的，都是通过 ReflectiveMethodInvocation 的 proceed() 方法实现的。
-- **在JdkDynamicAopProxy类的invoke方法中，如果没有配置拦截器，就直接通过反射调用目标对象 target 的 method对象，并获取返回值，如果有拦截器链，则需要先调用拦截器链中的拦截器，再调用目标的对应方法，这里通过构造 ReflectiveMethodInvocation 来实现
-- **AOP 拦截器链的调用-- ReflectiveMethodInvocation  
+- **JdkDynamicAopProxy 实现了 InvocationHandler 接口，并通过 java.lang.reflect.Proxy 的 newProxyInstance()静态方法 生成代理对象并返回。**
+- **JdkDynamicAopProxy 和 CglibAopProxy 虽然使用了不同的代理对象，但对 AOP 拦截的处理却是相同的，都是通过 ReflectiveMethodInvocation 的 proceed() 方法实现的。**
+- **在JdkDynamicAopProxy类的invoke方法中，如果没有配置拦截器，就直接通过反射调用目标对象 target 的 method对象，并获取返回值，如果有拦截器链，则需要先调用拦截器链中的拦截器，再调用目标的对应方法，这里通过构造 ReflectiveMethodInvocation 来实现**
+- **AOP 拦截器链的调用-- ReflectiveMethodInvocation  **
 **这里通过拦截器的 方法匹配器methodMatcher 进行方法匹配，
 如果目标类的目标方法 和配置的 Pointcut 匹配，那么这个 增强行为advice 将会被执行，
-Pointcut 定义了切面方法（要进行增强的方法），advice 定义了增强的行为
+Pointcut 定义了切面方法（要进行增强的方法），advice 定义了增强的行为**
