@@ -10,7 +10,8 @@
 
 给对象添加一个引用计数器，每当有一个地方引用，计数器就加1。当引用失效，计数器就减1。任何时候计数器为0的对象就是不可能再被使用的。
 
-这个方法实现简单，效率高，但是目前主流的虚拟机中没有选择这个算法来管理内存，最主要的原因是它很难解决对象之前相互循环引用的问题。所谓对象之间的相互引用问题，通过下面代码所示：除了对象a和b相互引用着对方之外，这两个对象之间再无任何引用。但是它们因为互相引用对方，导致它们的引用计数器都不为0，于是引用计数器法无法通知GC回收器回收它们。
+这个方法实现简单，效率高，但是目前主流的虚拟机中没有选择这个算法来管理内存，最主要的原因是它很难解决对象之前相互循环引用的问题。所谓对象之间的相互引用问题，通过下面代码所示：除了对象a和b相互引用着对方之外，这两个对象之间再无任何引用。但是它们因为互相引用对方，导致它们的引用计数器都不为0，于是引用计数器法无法通知GC回收器回收它们。  
+
 ![img](https://github.com/roundliuyang/image/blob/master/JVM/7.png)
 
 
@@ -20,7 +21,8 @@
 
 GC Roots根节点：类加载器、Thread、虚拟机栈的本地变量表、static成员、常量引用、本地方法栈的变量等等
 
-![8](D:\work\Course\TyporaImages\JVM\JVM-3\8.png)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/8.png)
+
 
 ### 如何判断一个常量是废弃常量
 
@@ -40,7 +42,8 @@ GC Roots根节点：类加载器、Thread、虚拟机栈的本地变量表、sta
 
 ## 垃圾回收算法
 
-![10](D:\work\Course\TyporaImages\JVM\JVM-3\10.png)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/10.png)
+
 
 ### 标记-清除算法
 
@@ -49,19 +52,22 @@ GC Roots根节点：类加载器、Thread、虚拟机栈的本地变量表、sta
 1. 效率问题，标记和清除两个过程的效率都不高；
 2. 空间问题，标记清除后会产生大量不连续的碎片；
 
-![11](D:\work\Course\TyporaImages\JVM\JVM-3\11.jpg)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/11.png)
+
 
 ### 复制算法
 
 为了解决效率问题，复制算法出现了。它可以把内存分为大小相同的两块，每次只使用其中的一块。当这一块的内存使用完后，就将还存活的对象复制到另一块区，然后再把使用的空间一次清理掉。这样就使每次的内存回收都是对内存区间的一半进行回收
 
-![12](D:\work\Course\TyporaImages\JVM\JVM-3\12.jpg)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/12.png)
+
 
 ### 标记-整理算法
 
 根据老年代的特点提出的一种标记算法，标记过程和“标记-清除”算法一样，但是后续步骤不是直接对可回收对象进行回收，而是让所有存活的对象向一段移动，然后直接清理掉边界以外的内存
 
-![13](D:\work\Course\TyporaImages\JVM\JVM-3\13.png)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/13.png)
+
 
 ### 分代收集算法
 
@@ -73,7 +79,8 @@ GC Roots根节点：类加载器、Thread、虚拟机栈的本地变量表、sta
 
 java虚拟机规范对垃圾收集器应该如何实现没有任何规定，因为没有所谓最好的垃圾收集器出现，更不会有万金油垃圾收集器，只能是根据具体的应用场景选择合适的垃圾收集器。
 
-![14](D:\work\Course\TyporaImages\JVM\JVM-3\14.png)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/14.png)
+
 
 ### Serial收集器
 
@@ -81,7 +88,8 @@ Serial（串行）收集器收集器是最基本、历史最悠久的垃圾收�
 
 新生代采用复制算法，老年代采用标记-整理算法。
 
-![15](D:\work\Course\TyporaImages\JVM\JVM-3\15.jpg)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/15.png)
+
 
 虚拟机的设计者们当然知道Stop The World带来的不良用户体验，所以在后续的垃圾收集器设计中停顿时间在不断缩短（仍然还有停顿，寻找最优秀的垃圾收集器的过程仍然在继续）。
 
@@ -95,7 +103,8 @@ ParNew收集器其实就是Serial收集器的多线程版本，除了使用多�
 
 新生代采用复制算法，老年代采用标记-整理算法。 
 
-![16](D:\work\Course\TyporaImages\JVM\JVM-3\16.jpg)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/16.png)
+
 
 它是许多运行在Server模式下的虚拟机的首要选择，除了Serial收集器外，只有它能与CMS收集器（真正意义上的并发收集器，后面会介绍到）配合工作。
 
@@ -107,7 +116,8 @@ Parallel Scavenge收集器关注点是吞吐量（高效率的利用CPU）。CMS
 
 新生代采用复制算法，老年代采用标记-整理算法。 
 
-![17](D:\work\Course\TyporaImages\JVM\JVM-3\17.jpg)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/17.png)
+
 
 ### Serial Old收集器
 
@@ -135,7 +145,8 @@ CMS（Concurrent Mark Sweep）收集器是HotSpot虚拟机第一款真正意义�
 - 重新标记（CMS remark）： 重新标记阶段就是为了修正并发标记期间因为用户程序继续运行而导致标记产生变动的那一部分对象的标记记录，这个阶段的停顿时间一般会比初始标记阶段的时间稍长，远远比并发标记阶段时间短
 - 并发清除（CMS concurrent sweep）： 开启用户线程，同时GC线程开始对为标记的区域做清扫。
 
-![18](D:\work\Course\TyporaImages\JVM\JVM-3\18.jpg)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/18.png)
+
 
 CMS主要优点：并发收集、低停顿。但是它有下面三个明显的缺点：
 
@@ -147,7 +158,9 @@ CMS主要优点：并发收集、低停顿。但是它有下面三个明显的�
 
 G1 (Garbage-First)是一款面向服务器的垃圾收集器,主要针对配备多颗处理器及大容量内存的机器. 以极高概率满足GC停顿时间要求的同时,还具备高吞吐量性能特征.
 
-![19](D:\work\Course\TyporaImages\JVM\JVM-3\19.png)![20](D:\work\Course\TyporaImages\JVM\JVM-3\20.png)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/19.png)![img](https://github.com/roundliuyang/image/blob/master/JVM/20.png)
+
+
 
 被视为JDK1.7中HotSpot虚拟机的一个重要进化特征。它具备一下特点：
 
