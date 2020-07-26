@@ -47,6 +47,8 @@
 
 - [HTTPS（四次握手）+HTTP+TCP+......](https://github.com/valarchie/java_technology_summary/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)  
 
+- [面试官：换人！他连进程线程协程这几个特点都说不出](https://mp.weixin.qq.com/s/5oS5AmtMqbmPP7hiU1mWig)  
+
 ### JVM  
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
