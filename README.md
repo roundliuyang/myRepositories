@@ -76,7 +76,9 @@
 
 ### Java并发  
 
-- [【死磕 Java 并发】—– J.U.C 之阻塞队列：PriorityBlockingQueue](https://github.com/roundliuyang/myRepositories/blob/master/Java%E5%B9%B6%E5%8F%91/%E3%80%90%E6%AD%BB%E7%A3%95Java%E5%B9%B6%E5%8F%91%E3%80%91-----J.U.C%E4%B9%8B%E9%98%BB%E5%A1%9E%E9%98%9F%E5%88%97%EF%BC%9APriorityBlockingQueue.md)   
+- [【死磕 Java 并发】—– J.U.C 之阻塞队列：PriorityBlockingQueue](https://github.com/roundliuyang/myRepositories/blob/master/Java%E5%B9%B6%E5%8F%91/%E3%80%90%E6%AD%BB%E7%A3%95Java%E5%B9%B6%E5%8F%91%E3%80%91-----J.U.C%E4%B9%8B%E9%98%BB%E5%A1%9E%E9%98%9F%E5%88%97%EF%BC%9APriorityBlockingQueue.md)  
+
+- [CAS底层的实现](http://www.iocoder.cn/JUC/sike/CAS/)   
 
 
 ### Mybatis  
