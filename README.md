@@ -45,6 +45,8 @@
 
 - [TCP/UDP/HTTP/进程通信](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&mid=2247483861&idx=1&sn=147889a0c277581eaa0c7dfc68979beb&chksm=9f3ad9a9a84d50bfa5764cea22e32fda74eb1177b34012a4f44a9b93dd3d81ee0cae1512c4ba&token=839566199&lang=zh_CN#rd)   
 
+- [HTTPS（四次握手）+HTTP+TCP+......](https://github.com/valarchie/java_technology_summary/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)  
+
 ### JVM  
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
