@@ -52,14 +52,14 @@ GC Roots根节点：类加载器、Thread、虚拟机栈的本地变量表、sta
 1. 效率问题，标记和清除两个过程的效率都不高；
 2. 空间问题，标记清除后会产生大量不连续的碎片；
 
-![img](https://github.com/roundliuyang/image/blob/master/JVM/11.png)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/11.jpg)
 
 
 ### 复制算法
 
 为了解决效率问题，复制算法出现了。它可以把内存分为大小相同的两块，每次只使用其中的一块。当这一块的内存使用完后，就将还存活的对象复制到另一块区，然后再把使用的空间一次清理掉。这样就使每次的内存回收都是对内存区间的一半进行回收
 
-![img](https://github.com/roundliuyang/image/blob/master/JVM/12.png)
+![img](https://github.com/roundliuyang/image/blob/master/JVM/12.jpg)
 
 
 ### 标记-整理算法
