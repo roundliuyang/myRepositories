@@ -49,6 +49,10 @@
 
 - [面试官：换人！他连进程线程协程这几个特点都说不出](https://mp.weixin.qq.com/s/5oS5AmtMqbmPP7hiU1mWig)  
 
+### 操作系统
+
+- [20张图直接把操作系统内存管理部分安排了](https://mp.weixin.qq.com/s/m-AmxDVUfko7OTUsCapnPA)  
+
 ### JVM  
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
