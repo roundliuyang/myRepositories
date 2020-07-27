@@ -56,6 +56,7 @@
 ### JVM  
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
+
 - [看完这篇垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/8vXENzg580R7F2iNjSdHFw)  
 
 ### 设计模式  
@@ -71,13 +72,17 @@
 ### Spring  
 
 - [Sping注解：注解和含义](https://www.cnblogs.com/drl-blogs/p/10797946.html)   
+
 - [Spring 事务用法示例与实现原理](https://mp.weixin.qq.com/s/yk0SmHljpmuVKSRKJVzf6w)  
+
 - [Spring IOC知识点一网打尽！](https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg)   
 
 ### 多线程  
 
 - [Java 中的锁](https://mp.weixin.qq.com/s/GU42BjM5jY2CEMVD_PAZBQ)   
+
 - [再有人问你synchronized是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/tI_4nCIg1kkcf6_UW1aA5A)   
+
 - [你真的了解 volatile 关键字吗？](https://mp.weixin.qq.com/s/35iBa26Y8XLlCsYQzVoHsg)   
 
 ### Java并发  
