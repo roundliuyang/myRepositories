@@ -133,7 +133,12 @@
 
 - [COW奶牛！Copy On Write机制了解一下](https://mp.weixin.qq.com/s/EZNsGajgmIhOQvwMgn2_6w)    
 
-- [Java IO](https://mp.weixin.qq.com/s/BbeoqtdVTVdUSGoMa1SMPQ) 
+- [Java IO](https://mp.weixin.qq.com/s/BbeoqtdVTVdUSGoMa1SMPQ)  
+
+### 数据结构&算法
+
+- [教你如何迅速秒杀掉：99%的海量数据处理面试题](https://blog.csdn.net/v_july_v/article/details/7382693)  
+- [十道海量数据处理面试题与十个方法大总结](https://blog.csdn.net/v_JULY_v/article/details/6279498)  
 
 ### 集合类  
 
