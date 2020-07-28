@@ -53,6 +53,10 @@
 
 - [20张图直接把操作系统内存管理部分安排了](https://mp.weixin.qq.com/s/m-AmxDVUfko7OTUsCapnPA)  
 
+### MySQL  
+
+- [MySQL之MVCC初探(1)](https://mp.weixin.qq.com/s/flUsDqupEb2AKPUJOeK7rA)  
+
 ### JVM  
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
