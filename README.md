@@ -95,6 +95,9 @@
 
 - [Java内存模型](https://mp.weixin.qq.com/s/ME_rVwhstQ7FGLPVcfpugQ)   
 
+- [说出Java创建线程的三种方式及对比](https://mp.weixin.qq.com/s/e1LryTghGDZC5x9VnwqDHQ)   
+
+
 
 ### Java并发  
 
