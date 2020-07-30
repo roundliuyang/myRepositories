@@ -95,6 +95,8 @@
 
 - [Java 中的锁](https://mp.weixin.qq.com/s/GU42BjM5jY2CEMVD_PAZBQ)   
 
+- [如何快速排查死锁？如何避免死锁？](https://mp.weixin.qq.com/s/98KzwNQhBCdVVtPfg9GFXA)   
+
 - [再有人问你synchronized是什么，就把这篇文章发给他](https://mp.weixin.qq.com/s/tI_4nCIg1kkcf6_UW1aA5A)   
 
 - [你真的了解 volatile 关键字吗？](https://mp.weixin.qq.com/s/35iBa26Y8XLlCsYQzVoHsg)   
