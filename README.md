@@ -66,6 +66,12 @@
 
 - [MySQL之B+树详解](https://www.pianshen.com/article/83511371716/)  
 
+## Redis  
+
+- [Redis常见面试题](https://mp.weixin.qq.com/cgi-bin/appmsg?t=media/appmsg_edit&action=edit&type=10&appmsgid=100000202&token=1012432800&lang=zh_CN)  
+
+
+
 ## JVM  
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
