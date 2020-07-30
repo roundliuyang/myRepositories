@@ -141,7 +141,9 @@
 
 - [从链表中删除数据的时间复杂度真的是O(1)吗？ & 插入删除为什么用链表](https://mp.weixin.qq.com/s/Q7v20FDJnkuBOnBAyZSsWw) 
 
-## 数据结构&算法
+## 数据结构&算法  
+
+- [跳表](https://mp.weixin.qq.com/s/D7p1IlYCET-McQz-VqICAA)  
 
 - [教你如何迅速秒杀掉：99%的海量数据处理面试题](https://blog.csdn.net/v_july_v/article/details/7382693)  
 
