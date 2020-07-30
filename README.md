@@ -68,7 +68,7 @@
 
 ## Redis  
 
-- [Redis常见面试题](https://mp.weixin.qq.com/cgi-bin/appmsg?t=media/appmsg_edit&action=edit&type=10&appmsgid=100000202&token=1012432800&lang=zh_CN)  
+- [Redis常见面试题](https://mp.weixin.qq.com/s?__biz=MzA3MDUyMTEwNw==&tempkey=MTA3Ml9rMzJycGt5MUFiSERKdThGaVFOVV9TSWlHZmRla3NCQ0tKTXdnV1p6dThsTWQwZlZ4dUpEdXlJYUh6Y1hpWjNhRU5sTkpNQWQyc0ZTOE5Yc3dHR1VhUGVkNGZhbVNlV2lzU1NKWi1IbjFqY2NtQy01SzZ3ZHNnZkN6RUF1djBBNVBubTFES1BVYmFTMkNQaG1DVklKWUtJMEJPVkkwa3l0THJmUFVnfn4%3D&chksm=1f3ad9b6284d50a0f92c943b5b837db1e6ca40f7fecffee65bccd1fb01000973430fdb074ef2#rd)  
 
 
 
