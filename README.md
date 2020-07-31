@@ -151,7 +151,10 @@
 
 - [Java IO](https://mp.weixin.qq.com/s/BbeoqtdVTVdUSGoMa1SMPQ)  
 
-- [从链表中删除数据的时间复杂度真的是O(1)吗？ & 插入删除为什么用链表](https://mp.weixin.qq.com/s/Q7v20FDJnkuBOnBAyZSsWw) 
+- [从链表中删除数据的时间复杂度真的是O(1)吗？ & 插入删除为什么用链表](https://mp.weixin.qq.com/s/Q7v20FDJnkuBOnBAyZSsWw)   
+
+- [一致性哈希算法原理](https://www.cnblogs.com/williamjie/p/9477852.html)    
+
 
 ## 数据结构&算法  
 
