@@ -154,7 +154,7 @@ setRedis（Key，value，time + Math.random() * 10000）；
 
 ### 缓存穿透和击穿，可以说说他们跟雪崩的区别
 
-
+相关阅读：[缓存穿透，缓存击穿，缓存雪崩解决方案分析](https://mp.weixin.qq.com/s/IJTGZyHI1JGG8JFxcwNg4g)
 
 ### **缓存穿透**
 
