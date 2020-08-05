@@ -96,6 +96,13 @@
 
 - [Spring IOC知识点一网打尽！](https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg)   
 
+## 分布式  
+
+- [万字长文！不为人所知的分布式锁实现全都在这里了](https://mp.weixin.qq.com/s/EiJsddlhAzkScoWVXR6GPQ)   
+
+- [因 Redis 分布式锁造成的 P0 级重大事故，整个项目组被扣了绩效](https://mp.weixin.qq.com/s/GaQ_jemfkUrF-PiPfpimtw)   
+
+
 ## 多线程  
 
 - [Java 中的锁](https://mp.weixin.qq.com/s/GU42BjM5jY2CEMVD_PAZBQ)   
