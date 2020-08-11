@@ -54,6 +54,9 @@
 
 - [HTTPS及其背后的加密原理+证书](https://mp.weixin.qq.com/s/3gI8avaaaEaBJjOKitN7Fw)  
 
+- [一文搞懂 HTTP、TCP 的长连接和短连接](https://mp.weixin.qq.com/s/O75mgVnON2XqropUEcyLCQ)   
+
+
 ## 操作系统
 
 - [20张图直接把操作系统内存管理部分安排了](https://mp.weixin.qq.com/s/m-AmxDVUfko7OTUsCapnPA)  
