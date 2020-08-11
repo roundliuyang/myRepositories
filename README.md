@@ -67,6 +67,8 @@
 
 - [MySQL之B+树详解](https://www.pianshen.com/article/83511371716/)  
 
+- [打开黑盒：从 MySQL 架构设计出发，看它是如何执行一条 SQL 语句的？](https://mp.weixin.qq.com/s/l-YszCG2Ij-TBFk7JkXGuQ)  
+
 ## Redis  
 
 - [Redis常见面试问题](https://github.com/roundliuyang/myRepositories/blob/master/Redis/Redis%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md)
