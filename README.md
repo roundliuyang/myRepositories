@@ -77,6 +77,8 @@
 
 - [研发应该懂的binlog知识](https://mp.weixin.qq.com/s/al0twP0eF-_PHlAn0XjzMQ)  
 
+- [联合索引在B+树上的存储结构及数据查找方式](https://zhuanlan.zhihu.com/p/109623980)  
+
 
 ## Redis  
 
