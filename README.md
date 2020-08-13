@@ -117,6 +117,9 @@
 
 - [因 Redis 分布式锁造成的 P0 级重大事故，整个项目组被扣了绩效](https://mp.weixin.qq.com/s/GaQ_jemfkUrF-PiPfpimtw)   
 
+- [如何选择分布式事务解决方案？](https://mp.weixin.qq.com/s/2AL3uJ5BG2X3Y2Vxg0XqnQ)   
+
+- [分布式事务——消息最终一致性方案](https://www.jianshu.com/p/04bad986a4a2)   
 
 ## 多线程  
 
