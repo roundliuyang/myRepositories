@@ -84,6 +84,11 @@
 
 - [Redis常见面试问题](https://github.com/roundliuyang/myRepositories/blob/master/Redis/Redis%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md)
 
+## RocketMQ  
+
+- [基于RocketMQ分布式事务-完整示例](https://mp.weixin.qq.com/s/bSiECGoP2gC71tzv9dxoEw) 
+
+
 ## JVM  
 
 - [万字详解，带你掌握 JVM 垃圾回收！](https://mp.weixin.qq.com/s/EYOD4mQ7ErB11xMrGgzfCw)  
