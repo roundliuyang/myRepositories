@@ -107,6 +107,8 @@
 
 - [Spring IOC知识点一网打尽！](https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg)   
 
+- [Spring 是怎么用适配器模式的？](https://mp.weixin.qq.com/s/3FX4x-bppAvQ87c3-RoOEg)  
+
 ## 分布式  
 
 - [万字长文！不为人所知的分布式锁实现全都在这里了](https://mp.weixin.qq.com/s/EiJsddlhAzkScoWVXR6GPQ)   
