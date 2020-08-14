@@ -185,6 +185,8 @@
 
 - [一致性哈希算法原理](https://www.cnblogs.com/williamjie/p/9477852.html)    
 
+- [实现生产者消费者模式的四种方式](https://segmentfault.com/a/1190000016260650)    
+
 
 ## 数据结构&算法  
 
