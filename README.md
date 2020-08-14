@@ -140,6 +140,8 @@
 
 - [说出Java创建线程的三种方式及对比](https://mp.weixin.qq.com/s/e1LryTghGDZC5x9VnwqDHQ)   
 
+- [浅谈线程池异常捕获](https://blog.csdn.net/zangdaiyang1991/article/details/89228103)   
+
 
 
 ## Java并发  
