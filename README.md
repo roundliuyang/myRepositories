@@ -126,6 +126,8 @@
 
 - [分布式事务——消息最终一致性方案](https://www.jianshu.com/p/04bad986a4a2)   
 
+- [从ACID到CAP/BASE](https://www.cnblogs.com/linbingdong/p/6178488.html)   
+
 ## 多线程  
 
 - [Java 中的锁](https://mp.weixin.qq.com/s/GU42BjM5jY2CEMVD_PAZBQ)   
