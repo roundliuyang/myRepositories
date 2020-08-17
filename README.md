@@ -131,6 +131,8 @@
 
 - [从ACID到CAP/BASE](https://www.cnblogs.com/linbingdong/p/6178488.html)   
 
+- [分布式id生成策略，我和面试官扯了一个半小时](https://mp.weixin.qq.com/s/yIE5NOj7nqCu2AnWCte1Rg)   
+
 ## 多线程  
 
 - [Java 中的锁](https://mp.weixin.qq.com/s/GU42BjM5jY2CEMVD_PAZBQ)   
