@@ -82,7 +82,10 @@
 
 ## Redis  
 
-- [Redis常见面试问题](https://github.com/roundliuyang/myRepositories/blob/master/Redis/Redis%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md)
+- [Redis常见面试问题](https://github.com/roundliuyang/myRepositories/blob/master/Redis/Redis%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md)  
+
+- [Redis详细介绍：5种基本数据结构](https://mp.weixin.qq.com/s/zFSKKWRDVrNcuAPvytpYiw)  
+
 
 ## RocketMQ  
 
