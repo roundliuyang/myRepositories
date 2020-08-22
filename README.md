@@ -53,7 +53,6 @@
 
 - [面试官：换人！他连进程线程协程这几个特点都说不出](https://mp.weixin.qq.com/s/5oS5AmtMqbmPP7hiU1mWig)  
 
-- [对称加密和非对称的加密](https://zhuanlan.zhihu.com/p/42516761)   
 
 - [HTTPS及其背后的加密原理+证书](https://mp.weixin.qq.com/s/3gI8avaaaEaBJjOKitN7Fw)  
 
