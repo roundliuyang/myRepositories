@@ -65,6 +65,8 @@
 
 - [top命令的用法](https://blog.csdn.net/zhuoya_/article/details/81049967)  
 
+- [操作系统系列1](https://mp.weixin.qq.com/s/5-k2BJDgEp9symxcSwoprw)  
+
 
 ## MySQL  
 
