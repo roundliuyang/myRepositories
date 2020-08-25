@@ -118,6 +118,8 @@
 
 - [Spring 是怎么用适配器模式的？](https://mp.weixin.qq.com/s/3FX4x-bppAvQ87c3-RoOEg)  
 
+- [Spring【依赖注入】就是这么简单](https://mp.weixin.qq.com/s/7eAnJw10VHdt6N5ZteTMhg)  
+
 ## 分布式  
 
 - [万字长文！不为人所知的分布式锁实现全都在这里了](https://mp.weixin.qq.com/s/EiJsddlhAzkScoWVXR6GPQ)   
