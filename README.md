@@ -58,6 +58,9 @@
 
 - [一文搞懂 HTTP、TCP 的长连接和短连接](https://mp.weixin.qq.com/s/O75mgVnON2XqropUEcyLCQ)   
 
+- [加密算法的前世今生](https://mp.weixin.qq.com/s/HvZsBiNn9tPcq11fmWgcLQ)   
+
+
 
 ## 操作系统
 
