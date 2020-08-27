@@ -127,6 +127,8 @@
 
 - [Spring【依赖注入】就是这么简单](https://mp.weixin.qq.com/s/7eAnJw10VHdt6N5ZteTMhg)  
 
+- [面试必杀技，讲一讲Spring中的循环依赖](https://mp.weixin.qq.com/s/YQRO2ZTn4T6A-iPUfs5ROg)  
+
 ## 分布式  
 
 - [万字长文！不为人所知的分布式锁实现全都在这里了](https://mp.weixin.qq.com/s/EiJsddlhAzkScoWVXR6GPQ)   
