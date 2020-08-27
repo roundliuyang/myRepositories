@@ -176,6 +176,11 @@
 
 - [MyBatis SQL是如何执行的](https://mp.weixin.qq.com/s/KqlS0qv_CMtRayKPpPUIGg)  
 
+## Zookeeper
+
+- [zookeeper原理篇-Zookeeper的数据存储与恢复原理](https://mp.weixin.qq.com/s/e2EIQBBWIuG4oyZCemQS3Q)  
+
+
 ## 秒杀系统  
 
 - [从零打造秒杀系统（一）：防止超卖](https://mp.weixin.qq.com/s/q7Z4d1I-q4N9hVJ1dzUpRA)    
