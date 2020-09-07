@@ -85,6 +85,10 @@
 
 - [联合索引在B+树上的存储结构及数据查找方式](https://zhuanlan.zhihu.com/p/109623980)  
 
+- [MySQL 大表优化方案](https://mp.weixin.qq.com/s/Z5jqnl_VnCDvbnYdboLw2A)  
+
+
+
 
 ## Redis  
 
