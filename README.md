@@ -215,7 +215,9 @@
  
 ## 面试  
 
-- [List、Set、Map详解及区别](https://www.cnblogs.com/jxxblogs/p/11561629.html)  
+- [List、Set、Map详解及区别](https://www.cnblogs.com/jxxblogs/p/11561629.html)    
+
+- [Java运行时异常和非运行时异常](https://blog.csdn.net/weixin_39973810/article/details/90762690)  
 
 
 
