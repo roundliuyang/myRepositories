@@ -219,6 +219,9 @@
 
 - [Java运行时异常和非运行时异常](https://blog.csdn.net/weixin_39973810/article/details/90762690)  
 
+- [redis使用场景及案例](https://blog.csdn.net/Bobdragery/article/details/99711762)  
+
+
 
 
 
