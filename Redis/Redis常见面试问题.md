@@ -125,6 +125,8 @@ Redis主从复制可以根据是否是全量分为全量同步和增量同步。
 ## 缓存穿透，缓存击穿，缓存雪崩  
 
 **相关阅读：**[缓存穿透，缓存击穿，缓存雪崩解决方案分析](https://mp.weixin.qq.com/s/IJTGZyHI1JGG8JFxcwNg4g)  
+           **[关于【缓存穿透、缓存击穿、缓存雪崩、热点数据失效】问题的解决方案](https://mp.weixin.qq.com/s/7gbJCeBKklTlAxU_vsrIxg)  
+
 
 
 ### 缓存雪崩
