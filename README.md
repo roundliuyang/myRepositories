@@ -223,7 +223,9 @@
 
 - [select、poll、epoll之间的区别](https://www.cnblogs.com/aspirant/p/9166944.html)  
 
-- [彻底理解 IO多路复用](https://mp.weixin.qq.com/s/PzOF9lFYVacPIRx0JakTjA)  
+- [彻底理解 IO多路复用](https://mp.weixin.qq.com/s/PzOF9lFYVacPIRx0JakTjA)    
+
+- [项目中常用的19条MySQL优化](https://mp.weixin.qq.com/s/znOJqt2gCMT-vJ0T40Wq7g)  
 
 
 
