@@ -221,7 +221,9 @@
 
 - [redis使用场景及案例](https://blog.csdn.net/Bobdragery/article/details/99711762)  
 
+- [select、poll、epoll之间的区别](https://www.cnblogs.com/aspirant/p/9166944.html)  
 
+- [彻底理解 IO多路复用](https://mp.weixin.qq.com/s/PzOF9lFYVacPIRx0JakTjA)  
 
 
 
