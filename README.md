@@ -133,7 +133,10 @@
 
 - [Spring【依赖注入】就是这么简单](https://mp.weixin.qq.com/s/7eAnJw10VHdt6N5ZteTMhg)  
 
-- [面试必杀技，讲一讲Spring中的循环依赖](https://mp.weixin.qq.com/s/YQRO2ZTn4T6A-iPUfs5ROg)  
+- [面试必杀技，讲一讲Spring中的循环依赖](https://mp.weixin.qq.com/s/YQRO2ZTn4T6A-iPUfs5ROg)    
+
+- [Spring常见问题总结（补充墙推版）](https://mp.weixin.qq.com/s/yaY3gcP0aEp7w-mUwl1yCQ)  
+
 
 ## 分布式  
 
