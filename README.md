@@ -250,6 +250,9 @@
 
 - [亿级数据过滤和布隆过滤器](https://mp.weixin.qq.com/s/wNtpO7TtxnhoiDHuv1grXg)  
 
+- [红黑树](https://mp.weixin.qq.com/s/iVhi9xV0qdaYYx8d45QFew)  
+
+
 
 ## 集合类  
 
