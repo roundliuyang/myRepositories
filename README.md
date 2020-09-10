@@ -114,7 +114,9 @@
 
 - [工厂方法模式](http://www.iocoder.cn/DesignPattern/xiaomingge/Factory-Method/)  
 
-- [适配器模式](http://www.iocoder.cn/DesignPattern/xiaomingge/Adapter-Pattern/)  
+- [适配器模式](http://www.iocoder.cn/DesignPattern/xiaomingge/Adapter-Pattern/)    
+
+- [静态代理和动态代理的区别](https://blog.csdn.net/fangqun663775/article/details/78960545)  
 
 
 ## Dubbo  
