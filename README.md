@@ -180,6 +180,8 @@
 
 - [【死磕 Java 并发】—– J.U.C 之 Condition（＋Condition实现生产者消费者）](http://www.iocoder.cn/JUC/sike/Condition/)  
 
+- [超强图文｜并发编程【等待/通知机制】就是这个feel～](https://mp.weixin.qq.com/s/MyFnLmdFvrceAMpIf5gJvQ)  
+
 
 ## Mybatis  
 
