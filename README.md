@@ -87,7 +87,9 @@
 
 - [MySQL 大表优化方案](https://mp.weixin.qq.com/s/Z5jqnl_VnCDvbnYdboLw2A)  
 
-- [曾经，我以为我很懂 MySQL 索引（非常nice的总结）...](https://mp.weixin.qq.com/s/ovMx9Dv9NCFxSsFM98uYFw)  
+- [曾经，我以为我很懂 MySQL 索引（非常nice的总结）...](https://mp.weixin.qq.com/s/ovMx9Dv9NCFxSsFM98uYFw)    
+
+- [mysql覆盖索引与回表](https://www.jianshu.com/p/8991cbca3854)
 
 
 
