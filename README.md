@@ -89,7 +89,9 @@
 
 - [曾经，我以为我很懂 MySQL 索引（非常nice的总结）...](https://mp.weixin.qq.com/s/ovMx9Dv9NCFxSsFM98uYFw)    
 
-- [mysql覆盖索引与回表](https://www.jianshu.com/p/8991cbca3854)
+- [mysql覆盖索引与回表](https://www.jianshu.com/p/8991cbca3854)  
+
+- [当前读与快照读](https://www.cnblogs.com/twoheads/p/10703836.html)
 
 
 
