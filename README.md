@@ -60,6 +60,8 @@
 
 - [加密算法的前世今生](https://mp.weixin.qq.com/s/HvZsBiNn9tPcq11fmWgcLQ)   
 
+- [粘包拆包，Netty及远洋通信中的解决方案！超实用](https://mp.weixin.qq.com/s/jZszniYk0ayWws_u1onF8Q)   
+
 
 
 ## 操作系统
