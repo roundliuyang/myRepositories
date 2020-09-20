@@ -189,7 +189,9 @@
 
 - [【死磕 Java 并发】—– J.U.C 之线程池：ThreadPoolExecutor](http://www.iocoder.cn/JUC/sike/ThreadPoolExecutor/)  
 
-- [CAS底层的实现](http://www.iocoder.cn/JUC/sike/CAS/)     
+- [CAS底层的实现](http://www.iocoder.cn/JUC/sike/CAS/)   
+
+- [CAS底层的实现2](https://mp.weixin.qq.com/s?__biz=MzUzMTE3MzIwOA==&mid=2247483826&idx=1&sn=321281f94e7f712f9aa33e54cebcf8ac&chksm=fa47db85cd30529348fdc2142e75ff30947f7c5922a284859ab7ddee639b442f124598ff2aca&scene=21#wechat_redirect)     
 
 - [【死磕 Java 并发】—– J.U.C 之 Condition（＋Condition实现生产者消费者）](http://www.iocoder.cn/JUC/sike/Condition/)  
 
