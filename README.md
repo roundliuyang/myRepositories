@@ -169,6 +169,7 @@
 
 - [分布式id生成策略，我和面试官扯了一个半小时](https://mp.weixin.qq.com/s/yIE5NOj7nqCu2AnWCte1Rg)   
 
+
 ## 多线程  
 
 - [Java 中的锁](https://mp.weixin.qq.com/s/GU42BjM5jY2CEMVD_PAZBQ)   
@@ -183,7 +184,10 @@
 
 - [说出Java创建线程的三种方式及对比](https://mp.weixin.qq.com/s/e1LryTghGDZC5x9VnwqDHQ)   
 
-- [浅谈线程池异常捕获](https://blog.csdn.net/zangdaiyang1991/article/details/89228103)   
+- [浅谈线程池异常捕获](https://blog.csdn.net/zangdaiyang1991/article/details/89228103)     
+
+- [java多线程的几种状态](https://www.cnblogs.com/buxiu/p/10534472.html)   
+
 
 
 
@@ -223,7 +227,8 @@
 
 - [零基础上手秒杀系统（三）：抢购接口隐藏 + 单用户限制频率](https://mp.weixin.qq.com/s/F2_K6UYuRkJoBCnwdzYl3Q)  
 
-- [秒杀系统实战（四）| 缓存与数据库双写问题的争议](https://mp.weixin.qq.com/s/Fk9z3MjUCWLh30grAnMKLg)  
+- [秒杀系统实战（四）| 缓存与数据库双写问题的争议](https://mp.weixin.qq.com/s/Fk9z3MjUCWLh30grAnMKLg)    
+
 
 ## Java基础  
 
