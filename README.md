@@ -229,6 +229,9 @@
 
 - [秒杀系统实战（四）| 缓存与数据库双写问题的争议](https://mp.weixin.qq.com/s/Fk9z3MjUCWLh30grAnMKLg)    
 
+- [秒杀系统实战（五）| 如何优雅的实现订单异步处理](https://mp.weixin.qq.com/s/gN8btoH8Oc2SDEShpQF-sQ)    
+
+
 
 ## Java基础  
 
