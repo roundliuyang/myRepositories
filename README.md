@@ -125,6 +125,8 @@
 
 - [看完这篇垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/8vXENzg580R7F2iNjSdHFw)  
 
+- [亿级流量系统如何玩转 JVM](https://mp.weixin.qq.com/s/iSlPSEb36Wgnes9taEX5hA)  
+
 ## 设计模式  
 
 - [工厂方法模式](http://www.iocoder.cn/DesignPattern/xiaomingge/Factory-Method/)  
@@ -256,6 +258,8 @@
 - [API接口设计](https://github.com/roundliuyang/myRepositories/blob/master/Java%E5%9F%BA%E7%A1%80/API%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1.md)   
 
 - [学会反射后，我被录取了！（干货）](https://mp.weixin.qq.com/s/0CgfpF9BoqGfCTM3_aBTDw)   
+
+- [Java | 深入理解String、StringBuilder 和 StringBuffer](https://mp.weixin.qq.com/s/XYArRr1N1Atkr1AFixvIhA)   
 
  
 ## 面试  
