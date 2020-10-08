@@ -102,7 +102,9 @@
 
 - [mysql覆盖索引与回表](https://www.jianshu.com/p/8991cbca3854)  
 
-- [当前读与快照读](https://www.cnblogs.com/twoheads/p/10703836.html)
+- [当前读与快照读](https://www.cnblogs.com/twoheads/p/10703836.html)  
+
+- [数据库中间件详解（分库分表）](https://zhuanlan.zhihu.com/p/87144535)
 
 
 
@@ -221,7 +223,7 @@
 - [zookeeper原理篇-Zookeeper的数据存储与恢复原理](https://mp.weixin.qq.com/s/e2EIQBBWIuG4oyZCemQS3Q)  
 
 
-## 秒杀系统  
+## 项目 
 
 - [从零打造秒杀系统（一）：防止超卖](https://mp.weixin.qq.com/s/q7Z4d1I-q4N9hVJ1dzUpRA)    
 
@@ -232,6 +234,8 @@
 - [秒杀系统实战（四）| 缓存与数据库双写问题的争议](https://mp.weixin.qq.com/s/Fk9z3MjUCWLh30grAnMKLg)    
 
 - [秒杀系统实战（五）| 如何优雅的实现订单异步处理](https://mp.weixin.qq.com/s/gN8btoH8Oc2SDEShpQF-sQ)    
+
+- [ Java 最常用的一些框架和开源项目](https://mp.weixin.qq.com/s/x2XfzHbhhtUJylH600K-eg)    
 
 
 
