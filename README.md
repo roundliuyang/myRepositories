@@ -195,6 +195,8 @@
 
 - [java多线程的几种状态](https://www.cnblogs.com/buxiu/p/10534472.html)   
 
+- [多线程交替打印ABC的多种实现方法](https://blog.csdn.net/xiaokang123456kao/article/details/77331878)   
+
 
 
 
