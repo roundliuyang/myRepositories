@@ -119,6 +119,9 @@
 
 - [Redis cluster集群模式的原理](https://www.cnblogs.com/mengchunchen/p/10059436.html)  
 
+- [redis集群节点宕机](https://www.cnblogs.com/dadonggg/p/8628735.html)  
+
+
 
 ## RocketMQ  
 
