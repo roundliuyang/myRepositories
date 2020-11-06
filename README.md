@@ -115,6 +115,8 @@
 
 - [Redis详细介绍：5种基本数据结构](https://mp.weixin.qq.com/s/zFSKKWRDVrNcuAPvytpYiw)  
 
+- [Redis cluster集群模式的原理](https://www.cnblogs.com/mengchunchen/p/10059436.html)  
+
 
 ## RocketMQ  
 
