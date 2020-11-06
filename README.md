@@ -106,6 +106,8 @@
 
 - [数据库中间件详解（分库分表）](https://zhuanlan.zhihu.com/p/87144535)
 
+- [mycat实战之理论](https://blog.csdn.net/huangpeigui/article/details/84846668)
+
 
 
 
