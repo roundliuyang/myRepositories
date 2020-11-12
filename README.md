@@ -284,6 +284,9 @@
 
 - [Java | 深入理解String、StringBuilder 和 StringBuffer](https://mp.weixin.qq.com/s/XYArRr1N1Atkr1AFixvIhA)   
 
+- [深入理解Java类加载器(ClassLoader)](https://blog.csdn.net/javazejian/article/details/73413292)   
+
+
  
 ## 面试  
 
