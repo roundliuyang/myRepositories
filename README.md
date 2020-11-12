@@ -125,6 +125,9 @@
 
 - [redis集群节点宕机](https://www.cnblogs.com/dadonggg/p/8628735.html)  
 
+- [如何理解Redis的Expire Key(过期键)](https://juejin.im/post/6844903968724746254)  
+
+
 
 
 ## RocketMQ  
