@@ -188,6 +188,8 @@
 
 - [Spring AOP源码解析）](https://www.javadoop.com/post/spring-aop-source)  
 
+- [Spring怎样解决循环依赖](https://segmentfault.com/a/1190000023647227)  
+
 
 ## SpringBoot  
 
