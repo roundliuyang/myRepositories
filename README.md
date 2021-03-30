@@ -227,7 +227,7 @@
 
 - [浅谈线程池异常捕获](https://blog.csdn.net/zangdaiyang1991/article/details/89228103)     
 
-- [java多线程的几种状态](https://www.cnblogs.com/buxiu/p/10534472.html)   
+- [Java线程的5种状态及切换](https://www.cnblogs.com/aspirant/p/8900276.html)   
 
 - [多线程交替打印ABC的多种实现方法](https://blog.csdn.net/xiaokang123456kao/article/details/77331878)   
 
